@@ -71,7 +71,7 @@ export default function WelcomePage() {
               <ExternalLink className="ml-2 h-4 w-4" />
             </Button>
           </Link>
-          <Link href="" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/Tahasaif3/30-days-30-projects-showcase" target="_blank" rel="noopener noreferrer">
             <Button
               size="lg"
               variant="outline"
